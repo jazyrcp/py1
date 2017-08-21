@@ -4,3 +4,4 @@ def funct1 (msg):
 
 
 msg = "Hai"
+#hai how are you
